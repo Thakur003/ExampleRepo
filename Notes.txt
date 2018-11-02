@@ -1,0 +1,25 @@
+excelity global
+https://iconnect.fs.capgemini.com/
+https://lnc.fs.capgemini.com/frmHome_MyLearning.aspx
+1. horizontal & vertical scaling example
+https://www.esds.co.in/blog/what-is-the-difference-between-horizontal-vertical-scaling/#sthash.4QneP6wO.dpbs
+
+https://docs.mulesoft.com/mule-runtime/3.9/dataweave-operators#type-coercion-using-code-as-code
+
+https://training.mulesoft.com/course/mulesoftu-fundamentals3 
+
+https://groupitcloudapps.in.capgemini.com/bustransport
+
+https://mylearning.capgemini.com
+
+
+09/12/2018 Day-2
+1. Spring boot application with data using jdbc
+2. Spring boot applicatin with h2 database--pending from my end
+3. sping boot application wiht jpa--pending from my end
+4. Actuator
+
+set foreign_key_checks=0;
+ALTER TABLE transaction
+ADD CONSTRAINT `FK_Account`
+FOREIGN KEY (AccountMasterId) REFERENCES account(AccountMasterId);
